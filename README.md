@@ -4,7 +4,7 @@ The project in this repository pulls a list of quotes from P2G's public API and 
 
 ## About
 
-**This test should only take you a two to three hours.  You can use any publicly available javascript libraries or nuget packages you want.  When you have completed this test please zip it and upload it to [This Form](https://forms.gle/hfTwNLUXDLaYTvNM7)**
+**This test should only take you two to three hours.  You can use any publicly available javascript libraries or nuget packages you want.  When you have completed this test please zip it and upload it to [This Form](https://forms.gle/hfTwNLUXDLaYTvNM7)**
 
 ## Required Changes.
 
@@ -27,8 +27,7 @@ The project in this repository pulls a list of quotes from P2G's public API and 
 
 **Senior developer applicants (as above including)**
 - Shown understanding of async.
-- Display an indepth knowledge of unit testing.
+- Display an in-depth knowledge of unit testing.
 
 **Bonus points**
 - Display a knowledge of your favourite pattern that best fits the application.
-
